@@ -5,7 +5,7 @@
   # Aliases
   alias yolomsg="fortune -a $fortunes_dir"
   alias yolo_cow="yolomsg | cowthink -f dragon"
-  alias yolocommit="git commit -m "$(yolomsg)""
+  alias yolocommit="git commit -m \"$(yolomsg)\""
 
   # Automatically generate or update Chuck's compiled fortune data file
   if [[ "$fortunes_dir/yolo" -ot "$fortunes_dir/yolo.dat" ]]; then
