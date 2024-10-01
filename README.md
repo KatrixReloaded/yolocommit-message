@@ -16,5 +16,5 @@ git clone https://github.com/KatrixReloaded/yolocommit-message.git $ZSH_CUSTOM/p
   
 ### Usage  
 - `yolocommit` random commit message printed  
-- `yolo_cow` random commit message said by dragon  
+- `yolo_cow` random commit message thought by a dragon  
 
