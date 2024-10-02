@@ -1,601 +1,2008 @@
-Push poorly written test can down the road another ten years
+$(rm -rvf .)
 %
-Revert "just testing, remember to revert"
+implemented missing semicolon
 %
-I'm human
+Fixing Jay's bug.
 %
-QuickFix.
+I really should've committed this when I finished it...
 %
-Don't push this commit
+At times like this I wish I was a Garbage Man.
 %
-Duh
+git please work
 %
-Final commit, ready for tagging
+changed things...
 %
-??! what the ...
+Moved something to somewhere... goodnight...
 %
-Please enter the commit message for your changes. Lines starting with '#' will be ignored, and an empty message aborts the commit.
+totally more readable
 %
-COMMIT ALL THE FILES!
+debugo
 %
-Updated build targets.
+oopsie B|
 %
-[Insert your commit message here. Be sure to make it descriptive.]
+"Get that shit outta my master."
 %
-I'm too foo for this bar
+Todo!!!
 %
-Commit committed....
+Nobody had ever created a function like this one before.
 %
-I'll mention this again, if you're git-blaming this, don't come slap me personally. This code straight ported from another project and we WILL refactor this in the future. This is a temporary solution. OK I guess you can slap me for porting this as is, but still.
+Another bug bites the dust
 %
-Ok
+making this thing actually usable.
 %
-One does not simply merge into master
+Misc. fixes
 %
-Obligatory placeholder commit message
+Does this work
 %
-Never gonna run around and desert you
-%
-I am Spartacus
-%
-yolo push
-%
-For the sake of my sanity, just ignore this...
-%
-Fixing Dan's bug.
-%
-Make that it works in 900f the cases.  3:30.
-%
-To those I leave behind, good luck!
-%
-My boss forced me to build this feature... Pure shit.
-%
-I immediately regret this commit.
-%
-I immediately regret this commit.
-%
-Feed. You. Stuff. No time.
-%
-whooooooooooooooooooooooooooo
-%
-Who has two thumbs and remembers the rudiments of his linear algebra courses?  Apparently, this guy.
-%
-Don't push this commit
-%
-LOTS of changes. period
-%
-fixed conflicts (LOL merge -s ours; push -f)
-%
-oops
-%
-Reinventing the wheel. Again.
-%
-dirty hack, have a better idea ?
-%
-Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit
+ajax-loader hotness, oh yeah
 %
 Update .gitignore
 %
-git stash *
+more stuff
 %
-It was the best of times, it was the worst of times
+clarify further the brokenness of C++. why the fuck are we using C++?
 %
-JDSOLUCOES, WE WENT OVER THIS. EXPANDTAB.
+Herping the derp
 %
-We Had To Use Dark Magic To Make This Work
+Next time someone asks you how to fix an infinite loop, remember this commit
 %
-some stuff working haha
-%
-Fixed errors
-%
-improved function
-%
-remove debug
-all good
-%
-I was told to leave it alone, but I have this thing called OCD, you see
-%
-Committing in accordance with the prophecy.
-%
-Feed. You. Stuff. No time.
-%
-TODO: Replace placeholder code
-%
-Derp, asset redirection in dev mode
-%
-done. going to bed now.
-%
-Friday 5pm
-%
-some brief changes
-%
-pam anderson is going to love me.
-%
-pgsql is being a pain
-%
-better ignores
-%
-lots and lots of changes
-%
-We know the game and we're gonna play it
-%
-i dunno, maybe this works
-%
-I CAN HAZ COMMENTZ.
-%
-IGOR, WE WENT OVER THIS. EXPANDTAB.
-%
-:(:(
-%
-For great justice.
-%
-Blaming regex.
-%
-I'm always trying to show versatility.
-%
-freemasonry
-%
-who has two thumbs and is a genius? not this guy!
-%
-add dirty scripts from the dark side of the universe
-%
-No changes after this point.
-%
-third time's a charm
-%
-fixed shit that havent been fixed in last commit
-%
-I'm human
-%
-The same thing we do every night, Pinky - try to take over the world!
-%
-debug suff
-%
-Never gonna give, never gonna give
-%
-I'll explain this when I'm sober .. or revert it
-%
-Pro Tip: Read Copilot output before pushing it
-%
-first blush
-%
-betterer code
-%
-For the sake of my sanity, just ignore this...
-%
-fix that damn sign!!!
-%
-Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit
-%
-implemented missing semicolon
-%
-Added missing file in previous commit
-%
-Something fixed
-%
-So my boss wanted this button ...
-%
-epic
-%
-c&p fail
-%
-oops
-%
-what is estonia up to now ...
-%
-Future self, please forgive me and don't hit me with the baseball bat again!
-%
-More ignore
-%
-Fucking submodule bull shit
-%
-Can someone review this commit, please ?
-%
-This commit is a lie
-%
-trying to do something right!
-%
-Merging the merge
-%
-oops, forgot to add the file
-%
-My bad
-%
-640K ought to be enough for anybody
-%
-fix /sigh
-%
-I understand that it's an antipattern, but it's convenient.
-%
-Michael made me do it
-%
-things occurred
-%
-REALLY FUCKING FIXED
-%
-Derp, asset redirection in dev mode
-%
-Added some NullPointerExceptions - Happy easter, you bastards! :D
-%
-You know the rules and so do I
-%
-I only play the games that I win at.
-%
-Bet
-%
-Gotta make you understand
-%
-I'm pretty sure novalagung isn't real and they are just 3 racoons in a trench coat.
-%
-David is going to hate this.
-%
-Never gonna give, never gonna give
-%
-bugger
-%
-Push poorly written test can down the road another ten years
-%
-haha yes it works now
-%
-I'm human
-%
-I would rather be playing No Man's Sky.
-%
-Whatever.
-%
-﻿ - Temporary commit.
-%
-I will run 'go fmt' before committing.
-%
-Peopleware Chapter 8: "You Never Get Anything Done around Here between 9 and 5."
-%
-Actual final build before release
-%
-fixed the israeli-palestinian conflict
-%
-I'm human
-%
-Chuck Norris Emailed Me This Patch... I'm Not Going To Question It
-%
-Fix all errors, all errors on the WORLD!!!!
-%
-making code less cancer
-%
-Updated build targets.
-%
-that coulda been bad
-%
-hey, look over there!
-%
-It was the best of times, it was the worst of times
-%
-Fixed compilation errors
-%
---help
-%
-implemented missing semicolon
-%
-improved function
-%
-fixed shit that havent been fixed in last commit
-%
-I would rather be playing SC2.
-%
-derp, helper method rename
-%
-I would rather be playing Factorio.
-%
-LAST time, Darren, /dev/urandom IS NOT a variable name generator...
-%
-workaround for ant being a pile of fail
-%
-Test commit. Please ignore
-%
-Bit Bucket is down. What should I do now?
-%
-omg what have I done?
-%
-diaaaaaazeeeeeeeeeepam
-%
-FUCKING LOGINX
-%
-Useful text
-%
-the magic is real
-%
-Peopleware Chapter 8: "You Never Get Anything Done around Here between 9 and 5."
-%
-git + ipynb = :(
-%
-changes
-%
-Fixed the fuck out of #502!
-%
-changes
-%
-I'm totally adding this to epic win. +300
-%
-I should get a raise for this.
-%
-You can't see it, but I'm making a very angry face right now
-%
-Trying to fake a conflict
-%
-Herp derp I left the debug in there and forgot to reset errors.
-%
-add dirty scripts from the dark side of the universe
-%
-this is why docs are important
-%
-whatthecommit.com’s server IP address could not be found.
-%
-I have no idea what Copilot was doing there.
-%
-Not one conflict, today was a good day.
-%
-done. going to bed now.
-%
-I understand that it's an antipattern, but it's convenient.
-%
-TODO: Tell someone to implement this
-%
-Update commit_messages.txt
-%
-I am even stupider than I thought
+Updated framework to the lattest version
 %
 Herping the derp derp (silly scoping error)
 %
-debug line test
+This is a basic implementation that works.
 %
-Fucking egotistical bastard. adds expandtab to vimrc
+This bug has driven lots of coders completely mad. You won't believe how it ended up being fixed
 %
-TODO: Replace placeholder code
+bla
 %
-I immediately regret this commit.
+stopped caring 21 commits ago
 %
-That last commit message about silly mistakes pales in comparision to this one
+lol digg
 %
-Too lazy to write descriptive message
+try our sister game minceraft!
 %
-Testing the test
+Somebody set up us the bomb.
 %
-commented out failing tests
+You know the rules and so do I
 %
-My bad
+you do wanna make me cry and i wanna say goodbye
 %
-add dirty scripts from the dark side of the universe
+Well, it's doing something.
 %
-if you're not using et, fuck off
+omgsosorry
 %
-bumping poms
+...
 %
-We'll figure it out on Monday
+Revert this commit
 %
-Who knows...
+Never gonna run around and desert you
 %
-c&p fail
+who hurt you
 %
-I am sorry
+It Compiles! 50 Points For Gryffindor.
 %
-Never gonna tell a lie and hurt you
+Things went wrong...
 %
-Testing the test
+these guys are flipped
 %
-bumping poms
+[Insert your commit message here. Be sure to make it descriptive.]
 %
-squash me
+Derp. Fix missing constant post rename
 %
-Derp
+somebody keeps erasing my changes.
 %
-fixed shit that havent been fixed in last commit
+I would rather be playing Factorio.
 %
-lol
+haha yes it works now
 %
-Well the book was obviously wrong.
-%
-I cannot believe that it took this long to write a test for this.
-%
-Copy pasta fail. still had a instead of a
-%
-I'm just a grunt. Don't blame me for this awful PoS.
-%
-oops
-%
-Improvements
-%
-oops!
-%
-One more time, but with feeling.
-%
-Don't tell me you're too blind to see
-%
-Whee.
-%
-SOAP is a piece of shit
-%
-Become a programmer, they said. It'll be fun, they said.
-%
-/sigh
-%
-Added some NullPointerExceptions - Happy easter, you bastards! :D
-%
-Commit committed
-%
-Improving the fix
+Yep, janraasch was right on this one.
 %
 fixed the israeli-palestinian conflict
 %
-This is my code. My code is amazing.
+Fix PC Load Letter Error
 %
-Abandon all hope, ye who enter here.
+Whee, good night.
 %
-I made leetle mistake
+Fixed the build.
 %
--m \'So I hear you like commits ...\'
+buenas those-things.
 %
-fixed conflicts (LOL merge -s ours; push -f)
+:(:(
 %
-Fucking submodule bull shit
+just trolling the repo
 %
-WIP, always
+hey, what's that over there?!
 %
-touched...
-%
-move your body every every body
+I forgot to commit... So here you go.
 %
 First Blood
 %
+I must sleep... it's working... in just three hours...
+%
+herpderp (redux)
+%
+pgsql is being a pain
+%
+Never gonna tell a lie and hurt you
+%
+[Insert your commit message here. Be sure to make it descriptive.]
+%
+Landed.
+%
+i think i fixed a bug...
+%
+these guys are flipped
+%
+PEBKAC
+%
+git please work
+%
+marks
+%
+Reinventing the wheel. Again.
+%
+Fixed a little bug...
+%
+I have no idea what I'm doing here.
+%
+pointless limitation
+%
+PULKIT, WE WENT OVER THIS. EXPANDTAB.
+%
+#GrammarNazi
+%
+Do things better, faster, stronger
+%
+Fix edge, single client, error case
+%
+Love coding? here's the secret reason why
+%
+This really should not take 19 minutes to build.
+%
+Improvements
+%
+Inside we both know what's been going on
+%
+debug suff
+%
+jdsolucoes broke the regex, lame
+%
+bla
+%
+holy shit it's functional
+%
+SHIT ===> GOLD
+%
+Another bug bites the dust
+%
+[no message]
+%
+Trying to fake a conflict
+%
+This is a basic implementation that works.
+%
+Whee, good night.
+%
+more stuff
+%
+Your commit is writing checks your merge can't cash.
+%
+I dont know what I am doing
+%
+accidental commit
+%
+Steve rebase plx?
+%
+NOJIRA: No cry
+%
+more debug... who overwrote!
+%
+I forgot to commit... So here you go.
+%
+Removed test case since code didn't pass QA
+%
 oops - thought I got that one.
-%
-My bad
-%
-f
-%
-small is a real HTML tag, who knew.
-%
-I am Spartacus
-%
-project lead is allergic to changes...
-%
-Still can't get this right...
-%
-Improving the fix
-%
-small is a real HTML tag, who knew.
-%
-bumping poms
-%
-All your codebase are belong to us.
-%
-More ignore
-%
-fixed the israeli-palestinian conflict
-%
-dope
-%
-should get thru ci now
-%
-lolwhat?
-%
-Never Run This Commit As Root
-%
-pep8 - cause I fell like doing a barrel roll
-%
-I am the greatest javascript developer in the world.
 %
 It's getting hard to keep up with the crap I've trashed
 %
 I will run 'terraform fmt' before committing.
 %
-Mongo.db was empty, filled now with good stuff
+less french words
 %
-Pro Tip: Read Copilot output before pushing it
+Made it to compile...
 %
-I'm always trying to show versatility.
+more stuff
 %
-Herping the fucking derp right here and now.
-%
-doh.
-%
-just trolling the repo
-%
-starting the service is always better
-%
-Finished fondling.
-%
-Herping the fucking derp right here and now.
-%
-Copy-paste to fix previous copy-paste
-%
-Somebody set up us the bomb.
-%
-MOAR BIFURCATION
-%
-this is my quickfix branch and i will use to do my quickfixes
+i hid an easter egg in the code. can you find it?
 %
 and so the crazy refactoring process sees the sunlight after some months in the dark!
-%
-A long time ago, in a galaxy far far away...
-%
-DEAL WITH IT
-%
-That last commit message about silly mistakes pales in comparision to this one
-%
-Make Sure You Are Square With Your God Before Trying To Merge This
-%
-added security.
-%
-I transformed a bug into a feature. Once you learn how, you'll never forget it
-%
-Does anyone read this? I'll be at the coffee shop accross the street.
-%
-I only play the games that I win at.
-%
-Whatever.
-%
-c&p fail
-%
-Reinventing the wheel. Again.
-%
-Your heart's been aching but you're too shy to say it
-%
-lol
-%
-Updated
-%
-lots and lots of changes
-%
-remove certain things and added stuff
-%
-Corrected mistakes
-%
-Insert Commit Message Here
-%
-_
-%
-Never gonna tell a lie and hurt you
-%
-Fixed compilation errors
-%
-The universe is possible
-%
-Updated
 %
 ci test
 %
-Fixing zanza00's bugs.
+lots and lots of changes
 %
-betterer code
+And if thou'rt unwilling, then force I'll employ
 %
-For the sake of my sanity, just ignore this...
+Now it's all microservices, I hope the fad persists.
 %
-Well the book was obviously wrong.
+grmbl
 %
-Locating the required gigapixels to render...
+he knows.
 %
-Riz
+oops
 %
-Somebody set up us the bomb.
+Revert "git please work"
 %
-forgot to save that file
+Just stop reading these for a while, ok..
 %
-LAST time, janraasch, /dev/urandom IS NOT a variable name generator...
+For real, this time.
 %
-I would rather be playing Factorio.
+fail
 %
-bumping poms
+Best commit ever
 %
-Committing fixes in the dark, seriously, who killed my power!?
+This is not a commit
 %
-Merge pull my finger request
+if you're not using et, fuck off
 %
-harharhar
+Committed some changes
 %
-yo recipes
+Herping the derp
 %
-and so the crazy refactoring process sees the sunlight after some months in the dark!
+Push poorly written test can down the road another ten years
+%
+extra debug for stuff module
+%
+this is why docs are important
+%
+rats
+%
+TDD: 1, Me: 0
+%
+REALLY FUCKING FIXED
 %
 Derp
 %
+these confounded tests drive me nuts
+%
+this is my quickfix branch and i will use to do my quickfixes
+%
+Refactor factories, revisit visitors
+%
+Still can't get this right...
+%
+Just stop reading these for a while, ok..
+%
+SOAP is a piece of shit
+%
+making this thing actually usable.
+%
+L1NT made me do it
+%
+I would rather be playing SC2.
+%
+features
+%
+TODO: Replace placeholder code
+%
+somebody keeps erasing my changes.
+%
+Never gonna say goodbye
+%
+FONDLED THE CODE
+%
+touched...
+%
+touched...
+%
+It worked for me...
+%
+Not sure why
+%
+I know what I am doing. Trust me.
+%
+Bit Bucket is down. What should I do now?
+%
+making code less cancer
+%
+work in progress
+%
+Programming the flux capacitor
+%
+touched...
+%
+yolo push
+%
+I don't know what the hell I was thinking.
+%
+woa!! this one was really HARD!
+%
+Ok
+%
+[FIX] asdf
+%
+This bug has driven lots of coders completely mad. You won't believe how it ended up being fixed
+%
+Removed test case since code didn't pass QA
+%
+You can't see it, but I'm making a very angry face right now
+%
+fix /sigh
+%
+Check next commit for message.
+%
+More ignore
+%
+fix that damn sign!!!
+%
+Thank god for Copilot
+%
+--help
+%
+This branch is so dirty, even your mom can't clean it.
+%
+Reset error count between rows. herpderp
+%
+This is why git rebase is a horrible horrible thing.
+%
+WTF is this.
+%
+move your body every every body
+%
+Make that it works in 900f the cases.  3:30.
+%
+Too lazy to write descriptive message
+%
+Deleted API file
+%
+Fucking templates.
+%
+Fix PC Load Letter Error
+%
+And if thou'rt unwilling, then force I'll employ
+%
+I should have had a V8 this morning.
+%
+Derp, asset redirection in dev mode
+%
+Fixed a bug cause Rebell said to
+%
+I hate this fucking language.
+%
+fix bug, for realz
+%
+happy monday _ bleh _
+%
+We know the game and we're gonna play it
+%
+Riz
+%
+Git wants e to commit, I want to sleep. Take me sweet void.
+%
+Definitely fixing a mistake Copilot made. Totally not mine.
+%
+git please work
+%
+FUCKING IGOR
+%
+This should work until december 2013.
+%
+Fixed mispeling
+%
+I dont know what I am doing
+%
+_
+%
+I'm too foo for this bar
+%
+mergeconflix is the new hottest Gaul on the block
+%
+Committed some changes
+%
+fix
+%
+bara bra grejjor
+%
+some brief changes
+%
+should work I guess...
+%
+I CAN HAZ PYTHON, I CAN HAZ INDENTS
+%
+git please work
+%
+bad things happen when you forget about that one little change you made ages ago
+%
+Moved something to somewhere... goodnight...
+%
+Never Run This Commit As Root
+%
+And a commit that I don't know the reason of...
+%
+TDD: 1, Me: 0
+%
+Same as last commit with changes
+%
+arrrggghhhhh fixed!
+%
+General commit (no IDs open) - Modifications for bad implementations
+%
+Only Tom Cruise knows why.
+%
+I had a cup of tea and now it's fixed
+%
+I will run 'go fmt' before committing.
+%
+Removed code.
+%
+I had a cup of tea and now it's fixed
+%
+Oh my god what year is it?!
+%
+Added another dependency
+%
+I did it for the lulz!
+%
+For the sake of my sanity, just ignore this...
+%
+Added missing file in previous commit
+%
+arrgghh... damn this thing for not working.
+%
+more fixes
+%
+NSA backdoor - ignore
+%
+Commit committed
+%
+Fix all errors, all errors on the WORLD!!!!
+%
+Update commit_messages.txt
+%
+Added missing file in previous commit
+%
+Moved something to somewhere... goodnight...
+%
+This is my code. My code is amazing.
+%
+DNS_PROBE_FINISHED_NXDOMAIN
+%
+You should have trusted me.
+%
+This really should not take 19 minutes to build.
+%
+Rainer sucks
+%
+yolo push
+%
+does it work? maybe. will I check? no.
+%
+improved function
+%
+I did it for the lulz!
+%
+increased loading time by a bit
+%
+[no message]
+%
+bumping poms
+%
+fixed errors in the previous commit
+%
+pr is failing but merging anyways, because I am an admin
+%
+Committing in accordance with the prophecy.
+%
+Never gonna give you up
+%
+Who has two thumbs and remembers the rudiments of his linear algebra courses?  Apparently, this guy.
+%
+hacky sack
+%
+lol digg
+%
+remove certain things and added stuff
+%
+NSA backdoor - ignore
+%
+lots and lots of changes
+%
+Minor updates
+%
+debugo
+%
+Livin' off borrowed time, the clock ticks faster
+%
+fuckup.
+%
+Fix all errors, all errors on the WORLD!!!!
+%
+That last commit was cringe
+%
+just checking if git is working properly...
+%
+haha yes it works now
+%
+Some shit.
+%
+GIT :/
+%
+removed tests since i can't make them green
+%
+iWader rebase plx?
+%
+Still can't get this right...
+%
+Love coding? here's the secret reason why
+%
+lolwhat?
+%
+We Had To Use Dark Magic To Make This Work
+%
+a lot of shit
+%
+One day I'll actually start looking at what Copilot generates instead of just immediately pushing it.
+%
+I'M PUSHING.
+%
+Nitpicking about alphabetizing methods, minor OCD thing
+%
+more stuff
+%
+fixes
+%
+yolo push
+%
+pay no attention to the man behind the curtain
+%
+NOJIRA: No cry
+%
+I'll mention this again, if you're git-blaming this, don't come slap me personally. This code straight ported from another project and we WILL refactor this in the future. This is a temporary solution. OK I guess you can slap me for porting this as is, but still.
+%
+They came from... Behind
+%
+Batman! (this commit has no parents)
+%
+LOL!
+%
+oops - thought I got that one.
+%
+fixed mistaken bug
+%
+I'm sorry.
+%
+Make Sure You Are Square With Your God Before Trying To Merge This
+%
+what the hell happened here
+%
+that's all folks
+%
+commit
+%
+Fixed some shit
+%
+Fixing Warun's bugs.
+%
+Please enter the commit message for your changes. Lines starting with '#' will be ignored, and an empty message aborts the commit.
+%
+Continued development...
+%
+TDD: 1, Me: 0
+%
+unionfind is no longer being molested.
+%
+bug fix
+%
+Useful text
+%
+Who knows...
+%
+SEXY RUSSIAN CODES WAITING FOR YOU TO CALL
+%
+Fanny rebase plx?
+%
+I'm too foo for this bar
+%
+and so the crazy refactoring process sees the sunlight after some months in the dark!
+%
+more ignores
+%
+Why The Fuck?
+%
+this is Spartaaaaaaaa
+%
+This commit is a lie
+%
+SEXY RUSSIAN CODES WAITING FOR YOU TO CALL
+%
+This commit is a lie
+%
+Hiding API key hahaha
+%
+This is a basic implementation that works.
+%
+Removed the 2gb .hprof file from git history
+%
+That's just how I roll
+%
+Just stop reading these for a while, ok..
+%
+--help
+%
+making code less cancer
+%
+more ignored words
+%
+fuckup.
+%
+pay no attention to the man behind the curtain
+%
+Major fixup.
+%
+Fixed Bug
+%
+/sigh
+%
+Spinning up the hamster...
+%
+Corrected mistakes
+%
+I'M PUSHING.
+%
+Stuff
+%
+Misc. fixes
+%
+bumping poms
+%
+I must sleep... it's working... in just three hours...
+%
+I can't believe it took so long to fix this.
+%
+What happens in vegas stays in vegas
+%
+ShanTulshi sucks
+%
+Oh no
+%
+and a comma
+%
+Continued development...
+%
+Updated
+%
+arrrggghhhhh fixed!
+%
+Never gonna make you cry
+%
+more stuff
+%
+Derpy hooves
+%
+more ignored words
+%
+stopped caring 12 commits ago
+%
+No changes made
+%
+a lot of shit
+%
+We should delete this crap before shipping.
+%
+It's 2016; why are we using ColdFusion?!
+%
+debug line test
+%
+tomekwojcik is on call, but here I am on Saturday fixing their shit.
+%
+gave up and used tables.
+%
+Batman! (this commit has no parents)
+%
+Locating the required gigapixels to render...
+%
+Derp. Fix missing constant post rename
+%
+Reinventing the wheel. Again.
+%
+minor changes
+%
+god help us all
+%
+Oh thank god for Copilot
+%
+pushing another fix
+%
+First Blood
+%
+Ok, 5am, it works.  For real.
+%
+perfect...
+%
+done. going to bed now.
+%
+Revert "fuckup".
+%
+Blaming regex.
+%
+add dirty scripts from the dark side of the universe
+%
+added super-widget 2.0.
+%
+better ignores
+%
+I only play the games that I win at.
+%
+Definitely fixing a mistake Copilot made. Totally not mine.
+%
+someone fails and it isn't me
+%
+Too tired to write descriptive message
+%
+Well the book was obviously wrong.
+%
+should work now.
+%
+Peopleware Chapter 8: "You Never Get Anything Done around Here between 9 and 5."
+%
+Updated build targets.
+%
+dope
+%
+Refactored configuration.
+%
+I must have been drunk.
+%
+Revert "fuckup".
+%
+Merge pull my finger request
+%
+small is a real HTML tag, who knew.
+%
+I'm human
+%
+I'm guessing this may start causing us problems either soon or never.
+%
+The dog is eating my code
+%
+Reset error count between rows. herpderp
+%
+I will run 'terraform fmt' before committing.
+%
+eppic fail April
+%
+No changes made
+%
+gave up and used tables.
+%
+Gross hack because Ali doesn't know how to code
+%
+This commit is a lie
+%
+Improving the fix
+%
+It's 2016; why are we using ColdFusion?!
+%
+TODO: Replace placeholder code
+%
+This Is Why We Don't Push To Production On Fridays
+%
+(\ /)
+(O.o)
+(> <) Bunny approves these changes.
+%
+I honestly wish I could remember what was going on here...
+%
+Ok
+%
+Removed test case since code didn't pass QA
+%
+syntax
+%
+We Had To Use Dark Magic To Make This Work
+%
+this doesn't really make things faster, but I tried
+%
+SOAP is a piece of shit
+%
+god help us all
+%
+IEize
+%
+The last time I tried this the monkey didn't survive. Let's hope it works better this time.
+%
+Removed code.
+%
+somebody keeps erasing my changes.
+%
+assorted changes
+%
+It's secret!
+%
+speling is difikult
+%
+You should have trusted me.
+%
+hmmm
+%
+I immediately regret this commit.
+%
+Don't push this commit
+%
+Easteregg
+%
+include shit
+%
+fuckup.
+%
+Fix hard-coded [object Object] string (thanks!)
+%
+This commit is a lie
+%
+yolo push
+%
+TODO: Replace placeholder code
+%
+I'm too foo for this bar
+%
+Check next commit for message.
+%
+That last commit was cringe
+%
+Code was clean until manager requested to fuck it up
+%
+bla
+%
+Use a real JS construct, WTF knows why this works in chromium.
+%
+LOTS of changes. period
+%
+You know the rules and so do I
+%
+General commit (no IDs open) - Modifications for bad implementations
+%
+Some shit.
+%
+Working on WIP
+%
+oopsie B|
+%
+doh.
+%
+Pipeline goes brrrrrrr
+%
+after of this commit remember do a git reset hard
+%
+last minute fixes.
+%
+Updated
+%
+Feed. You. Stuff. No time.
+%
+freemasonry
+%
+Out for vacation... DONT YOU DARE TO CALL ME.
+%
+fixes
+%
+Herping the fucking derp right here and now.
+%
+(\ /)
+(O.o)
+(> <) Bunny approves these changes.
+%
+I'm too old for this shit!
+%
+ID:10T Error
+%
+i hid an easter egg in the code. can you find it?
+%
+oops!
+%
+I really should've committed this when I finished it...
+%
+debugo
+%
+Trust me, I'm an engineer!... What the f*ck did just happened here?
+%
+You know the rules and so do I
+%
+Add Sandbox
+%
+By works, I meant 'doesnt work'.  Works now..
+%
+git stash *
+%
+It's 2016; why are we using ColdFusion?!
+%
+I will run 'terraform fmt' before committing.
+%
+added code
+%
+whatthecommit.com’s server IP address could not be found.
+%
+Committed some changes
+%
+Testing in progress ;)
+%
+it is hump day _^_
+%
+One day I'll actually start looking at what Copilot generates instead of just immediately pushing it.
+%
+This branch is so dirty, even your mom can't clean it.
+%
+...
+%
+Yep, Cord was right on this one.
+%
+Now we tell you your browser sucks in your native tongue.
+%
+FONDLED THE CODE
+%
+[Insert your commit message here. Be sure to make it descriptive.]
+%
+IEize
+%
+Fixed everything.
+%
+No cap
+%
+commit
+%
+It Compiles! 50 Points For Gryffindor.
+%
+We'll figure it out on Monday
+%
+Derp, asset redirection in dev mode
+%
+Pipeline goes brrrrrrr
+%
+foo
+%
+Git wants e to commit, I want to sleep. Take me sweet void.
+%
+foo
+%
+Somebody set up us the bomb.
+%
+features
+%
+One day I'll actually start looking at what Copilot generates instead of just immediately pushing it.
+%
+I am the greatest javascript developer in the world.
+%
+I would rather be playing Hell Divers 2.
+%
+Undoing last comming
+%
+:(:(
+%
+lol digg
+%
+I have no idea what I'm doing here.
+%
+Hiding API key hahaha
+%
+omgsosorry
+%
+haha yes it works now
+%
+No time to commit.. My people need me!
+%
+who hurt you
+%
+pointless limitation
+%
+So my boss wanted this button ...
+%
+It worked for me...
+%
+Rush B!
+%
+someday I gonna kill someone for this shit...
+%
+Is there an award for this?
+%
+Just stop reading these for a while, ok..
+%
+Pro Tip: Double check Randal's PRs
+%
+??! what the ...
+%
+copy and paste is not a design pattern
+%
+more ignores
+%
+Transpiled mainframe.
+%
+trying to do something right!
+%
+I would rather be playing Factorio.
+%
+For the statistics only
+%
+I'll mention this again, if you're git-blaming this, don't come slap me personally. This code straight ported from another project and we WILL refactor this in the future. This is a temporary solution. OK I guess you can slap me for porting this as is, but still.
+%
+doh.
+%
+This solves it.
+%
+some stuff working haha
+%
+perfect...
+%
+i hid an easter egg in the code. can you find it?
+%
+[Insert your commit message here. Be sure to make it descriptive.]
+%
+small is a real HTML tag, who knew.
+%
+unionfind is no longer being molested.
+%
+Gotta make you understand
+%
+I have no idea what Copilot was doing there.
+%
+Trying to fake a conflict
+%
+pgsql is being a pain
+%
+you do wanna make me cry and i wanna say goodbye
+%
+See last commit
+%
+It Compiles! 50 Points For Gryffindor.
+%
+pgsql is more strict, increase the hackiness up to 11
+%
+Made it to compile...
+%
+assorted changes
+%
+I had a cup of tea and now it's fixed
+%
+No time to commit.. My people need me!
+%
+Pro Tip: Read Copilot output before pushing it
+%
+How is the target directory over 100 gigs?
+%
+That's just how I roll
+%
+fix bug, for realz
+%
+git please work
+%
+Don’t mess with Voodoo
+%
+Why The Fuck?
+%
+Sunakshi sucks
+%
+...
+%
+Make Sure You Are Square With Your God Before Trying To Merge This
+%
+Spinning up the hamster...
+%
+Duh
+%
+Some bugs fixed
+%
+omgsosorry
+%
+Removed the 2gb .hprof file from git history
+%
+Pro Tip: Read Copilot output before pushing it
+%
+This was the most stupid bug in the world, fixed in the smartest way ever
+%
+these confounded tests drive me nuts
+%
+Bit Bucket is down. What should I do now?
+%
+refuckulated the carbonator
+%
+I cannot believe that it took this long to write a test for this.
+%
+more ignores
+%
+mergederp
+%
+The same thing we do every night, Pinky - try to take over the world!
+%
+need another beer
+%
+last hope failed, maybe now
+%
+Derpy hooves
+%
+[Insert your commit message here. Be sure to make it descriptive.]
+%
+hoo boy
+%
+fix that damn sign!!!
+%
+wrapping should work properly. Probably.
+%
+touched...
+%
+implemented missing semicolon
+%
+various changes
+%
+harharhar
+%
+Herping the fucking derp right here and now.
+%
+This is supposed to crash
+%
+Obligatory placeholder commit message
+%
+Oh thank god for Copilot
+%
+-m \'So I hear you like commits ...\'
+%
+Fixed a bug in NoteLineCount... not seriously...
+%
+I know, I know, this is not how I’m supposed to do it, but I can't think of something better.
+%
+Hiding API key hahaha
+%
+bad things happen when you forget about that one little change you made ages ago
+%
+workaround for ant being a pile of fail
+%
+LOL!
+%
+herpderp
+%
+Future self, please forgive me and don't hit me with the baseball bat again!
+%
+somebody keeps erasing my changes.
+%
+We should get someone from Purdue to do this. They are the boilerplaters.
+%
+bump to 0.0.3-dev:wq
+%
+Blaming regex.
+%
+fixes
+%
+Testing the test
+%
+--help
+%
+just checking if git is working properly...
+%
+This solves it.
+%
+Derp
+%
+fixed mistaken bug
+%
+I had a cup of tea and now it's fixed
+%
+Commit committed....
+%
+Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit
+%
+need another beer
+%
+That last commit was cringe
+%
+forgot to save that file
+%
+Automate Accounting
+%
+download half the damn internet to parse a pdf
+%
+haha yes it works now
+%
+Well, it's doing something.
+%
+Done, to whoever merges this, good luck.
+%
+Matt is on call, but here I am on Saturday fixing their shit.
+%
+Transpiled mainframe.
+%
+It worked for me...
+%
+restored deleted entities just to be sure
+%
+this is Spartaaaaaaaa
+%
+Fixing Brannon's bugs.
+%
+Never gonna run around and desert you
+%
+he knows.
+%
+ ¯\_(ツ)_/¯
+%
+you do wanna make me cry and i wanna say goodbye
+%
+put code that worked where the code that didn't used to be
+%
+GIT :/
+%
+Derp. Fix missing constant post rename
+%
+Blaming regex.
+%
+TODO: Replace stubs
+%
+herpderp
+%
+I know what I am doing. Trust me.
+%
+bad things happen when you forget about that one little change you made ages ago
+%
+Thank god for Copilot
+%
+ ¯\_(ツ)_/¯
+%
+To those I leave behind, good luck!
+%
+Removed code.
+%
+Revert this commit
+%
+A long time ago, in a galaxy far far away...
+%
+Fixed some shit
+%
+Todo!!!
+%
+who hurt you
+%
+Added missing file in previous commit
+%
+fixing project shit
+%
+DEAL WITH IT
+%
+herpderp (redux)
+%
+Give me a break, it's 2am.  But it works now.
+%
+I dont know what I am doing
+%
+Herping the derp derp (silly scoping error)
+%
+To those I leave behind, good luck!
+%
+I should have had a V8 this morning.
+%
+Crap. Tonight is raid night and I am already late.
+%
+serjoscha87 is a savage
+%
+This Is Why We Don't Push To Production On Fridays
+%
+Love coding? here's the secret reason why
+%
+I only play the games that I win at.
+%
+does it work? maybe. will I check? no.
+%
+We're no strangers to love
+%
+...
+%
+Definitely fixing a mistake Copilot made. Totally not mine.
+%
+Fixing loginx's bug.
+%
+HOTDANG-CA, WE WENT OVER THIS. CHECK WHAT COPILOT PRODUCES FIRST.
+%
+Fix hard-coded [object Object] string (thanks!)
+%
+omgsosorry
+%
+commented out failing tests
+%
+TODO: Replace stubs
+%
+I am Spartacus
+%
+Fix edge, single client, error case
+%
+This Is Why We Don't Push To Production On Fridays
+%
+Give me a break, it's 2am.  But it works now.
+%
+marks
+%
+COMMIT ALL THE FILES!
+%
+It worked for me...
+%
+WTF is this.
+%
+It's secret!
+%
+Stuff
+%
+One little whitespace gets its very own commit! Oh, life is so erratic!
+%
+First Blood
+%
+SOAP is a piece of shit
+%
+dirty hack, have a better idea ?
+%
+permanent hack, do not revert
+%
+oops!
+%
+Removed test case since code didn't pass QA
+%
+you do wanna make me cry and i wanna say goodbye
+%
+Completed with no bugs...
+%
+Not one conflict, today was a good day.
+%
+typo
+%
+harharhar
+%
+This is why the cat shouldn't sit on my keyboard.
+%
+omg what have I done?
+%
+holy shit it's functional
+%
+Only Tom Cruise knows why.
+%
+less french words
+%
+Who has two thumbs and remembers the rudiments of his linear algebra courses?  Apparently, this guy.
+%
+[FIX] asdf
+%
+Removed test case since code didn't pass QA
+%
+_
+%
+Don't tell me you're too blind to see
+%
+Improvements
+%
+arrrggghhhhh fixed!
+%
+Herpderp, shoulda check if it does really compile.
+%
+Duh
+%
+Corrected mistakes
+%
+goj made me do it
+%
+did everything
+%
+It's getting hard to keep up with the crap I've trashed
+%
+that's all folks
+%
+TODO: Tell someone to implement this
+%
+buenas those-things.
+%
+added some filthy stuff
+%
+Robert sucks
+%
+/sigh
+%
+Add Sandbox
+%
+NOJIRA: No cry
+%
+Updated build targets.
+%
+Why The Fuck?
+%
+happy monday _ bleh _
+%
+I'm human
+%
+lol digg
+%
+Hiding API key hahaha
+%
+Fucking submodule bull shit
+%
+There's four sides to every story.
+%
+removing unit tests
+%
+oopsie B|
+%
+I CAN HAZ PYTHON, I CAN HAZ INDENTS
+%
+dirty hack, have a better idea ?
+%
+stuff
+%
+[skip ci] I'll fix the build monday
+%
+$(rm -rvf .)
+%
+Final commit, ready for tagging
+%
+omgsosorry
+%
+NSA backdoor - ignore
+%
+Herpderp, shoulda check if it does really compile.
+%
+TDD: 1, Me: 0
+%
+Useful text
+%
+Don't tell me you're too blind to see
+%
+Hide those navs, boi!
+%
+I'm too foo for this bar
+%
+added message
+%
+LAST time, Qwertylex, /dev/urandom IS NOT a variable name generator...
+%
+improved function
+%
+asdfasdfasdfasdfasdfasdfadsf
+%
+rats
+%
+lots and lots of changes
+%
+I made leetle mistake
+%
+Same as last commit with changes
+%
+lots of changes after a lot of time
+%
+Saint Pipeline, please give me the green light
+%
+another big bag of changes
+%
+Derp. Fix missing constant post rename
+%
+Yes, I was being sarcastic.
+%
+put code that worked where the code that didn't used to be
+%
+s/import/include/
+%
+NOVALAGUNG SUCKS
+%
+after of this commit remember do a git reset hard
+%
+add dirty scripts from the dark side of the universe
+%
+All your codebase are belong to us.
+%
+(\ /)
+(O.o)
+(> <) Bunny approves these changes.
+%
+this should fix it
+%
+Haiyaa
+%
+I am sorry
+%
+We should get someone from Purdue to do this. They are the boilerplaters.
+%
+bifurcation
+%
+Derp. Fix missing constant post rename
+%
+I don't know what the hell I was thinking.
+%
+still trying to render a damn cube
+%
+TODO: Fix later
+%
+Copy-paste to fix previous copy-paste
+%
+Derpy hooves
+%
+This will definitely break in 2067 (TODO)
+%
+Friday 5pm
+%
+fixes
+%
+You know the rules and so do I
+%
+marks
+%
+We should get someone from Purdue to do this. They are the boilerplaters.
+%
+git + ipynb = :(
+%
+Revert "fuckup".
+%
+To those I leave behind, good luck!
+%
+buenas those-things.
+%
+Copy pasta fail. still had a instead of a
+%
+improved function
+%
+I am Root. We are Root.
+%
+This bunny should be killed.
+%
+really ignore ignored worsd
+%
+I'm just going to blame Copilot for that one.
+%
+﻿ - Temporary commit.
+%
+first blush
+%
+uhhhhhh
+%
+??! what the ...
+%
+And if you ask me how I'm feeling
+%
+well crap.
+%
+Pig
+%
+pgsql is more strict, increase the hackiness up to 11
+%
+touched...
+%
+s/import/include/
+%
+push fix
+%
+commented out failing tests
+%
+grrrr
+%
+Do things better, faster, stronger
+%
+hmmm
+%
+ALL SORTS OF THINGS
+%
+Your commit is writing checks your merge can't cash.
+%
+They came from... Behind
+%
+Plloi needs to start reading Copilot output and not just push blindly.
+%
+I expected something different.
+%
+forgot we're not using a smart language
+%
+Now it's all microservices, I hope the fad persists.
+%
+Check next commit for message.
+%
+Switched off unit test 7 because the build had to go out now and there was no time to fix it properly.
+%
+Fixed what was broken.
+%
+Give me a break, it's 2am.  But it works now.
+%
+hotdang-ca is a savage
+%
+DEAL WITH IT
+%
+Do things better, faster, stronger
+%
+This is a basic implementation that works.
+%
+Never gonna give you up
+%
+I forgot to commit... So here you go.
+%
+TDD: 1, Me: 0
+%
+Just stop reading these for a while, ok..
+%
+WHO THE FUCK CAME UP WITH MAKE?
+%
+who hurt you
+%
+We'll figure it out on Monday
+%
+:(:(
+%
+Use a real JS construct, WTF knows why this works in chromium.
+%
+herpderp (redux)
+%
+Pasha made me do it
+%
+Pig
+%
+James broke the regex, lame
+%
+fix /sigh
+%
+Added translation.
+%
+Done, to whoever merges this, good luck.
+%
+(\ /)
+(O.o)
+(> <) Bunny approves these changes.
+%
+implemented missing semicolon
+%
+Does this work
+%
+You can't see it, but I'm making a very angry face right now
+%
+Derp search/replace fuckup
+%
+grrrr
+%
+This changes nothing, don't look
+%
+Fix all errors, all errors on the WORLD!!!!
+%
+The dog is eating my code
+%
+Is there an award for this?
+%
+pushed fix again
+%
+first blush
+%
+less french words
+%
+NATE, WE WENT OVER THIS. CHECK WHAT COPILOT PRODUCES FIRST.
+%
+Minor updates
+%
+better ignores
+%
+Commit committed
+%
+s/import/include/
+%
+Now it's all microservices, I hope the fad persists.
+%
+Working on WIP
+%
+forgot a contact page woops haha
+%
+Trust me, I'm an engineer!... What the f*ck did just happened here?
+%
+Trust me, it's not badly written. It's just way above your head.
+%
+did everything
+%
+perfect...
+%
+oops, forgot to add the file
+%
+derpherp
+%
+This is why the cat shouldn't sit on my keyboard.
+%
+NOJIRA: No cry
+%
+I'm totally adding this to epic win. +300
+%
+Ok
+%
+??! what the ...
+%
+That last commit message about silly mistakes pales in comparision to this one
+%
+A full commitment's what I'm thinking of
+%
+Fucking templates.
+%
+Can someone review this commit, please ?
+%
+This is not a commit
+%
+WIPTF
+%
+I am even stupider than I thought
+%
+We know the game and we're gonna play it
+%
+There's four sides to every story.
+%
+pgsql is being a pain
+%
+Derp, asset redirection in dev mode
+%
+ci test
+%
+forgot we're not using a smart language
+%
+Herping the fucking derp right here and now.
+%
+foo
+%
+Fixed unnecessary bug.
+%
+We should get someone from Purdue to do this. They are the boilerplaters.
+%
+opatut is going to love this.
+%
+One little whitespace gets its very own commit! Oh, life is so erratic!
+%
+They came from... Behind
+%
+Fixing loginx's bugs.
+%
+asdfasdfasdfasdfasdfasdfadsf
+%
+There's four sides to every story.
+%
+Fixed so the code compiles
+%
+Refactored configuration.
+%
+whatthecommit.com’s server IP address could not be found.
+%
+herpderp
+%
+some stuff working haha
+%
+You know the rules and so do I
+%
+Apparently works-for-me is a crappy excuse.
+%
+more debug... who overwrote!
+%
+Fingers crossed!
+%
+jobs... steve jobs
+%
+Crap. Tonight is raid night and I am already late.
+%
+happy monday _ bleh _
+%
+Nitpicking about alphabetizing methods, minor OCD thing
+%
+Gotta make you understand
+%
+Copy-paste to fix previous copy-paste
+%
+It compiles! Ship it!
+%
+PEBKAC
+%
+TODO: write meaningful commit message
+%
+git + ipynb = :(
+%
+I must enjoy torturing myself
+%
+Please our Lord and Savior the Great Linter.
+%
+[Insert your commit message here. Be sure to make it descriptive.]
+%
+Revert "just testing, remember to revert"
+%
+touched...
+%
+c&p fail
+%
+TODO: write meaningful commit message
+%
+If it's hacky and you know it clap you hands (clap clap)!
+%
+I don't know why. Just move on.
+%
+I'm pretty sure Kevin isn't real and they are just Copilot in a trench coat.
+%
+f
+%
+yet another quality commit
+%
+Commit committed
+%
+breathe, =, breathe
+%
+I don't know why. Just move on.
+%
+hacky sack
+%
+try our sister game minceraft!
+%
+lots of changes after a lot of time
+%
+things occurred
+%
+who has two thumbs and is a genius? not this guy!
+%
+Nobody had ever created a function like this one before.
+%
+i dunno, maybe this works
+%
+Fixed a bug in NoteLineCount... not seriously...
+%
+last minute fixes.
+%
+mergederp
+%
+Never Run This Commit As Root
+%
+You wouldn't get this from any other guy
+%
+One little whitespace gets its very own commit! Oh, life is so erratic!
+%
+fix
+%
+Why The Fuck?
+%
+fixed errors in the previous commit
+%
+Still can't get this right...
+%
+and a comma
+%
+Inside we both know what's been going on
+%
+I understand that it's an antipattern, but it's convenient.
+%
+improved function
+%
+GIT :/
+%
+hopefully going to get a successful build got damn it
+%
+Fix all errors, all errors on the WORLD!!!!
+%
+Don't Ask Me, I Have No Idea Why This Works Either
+%
+these guys are flipped
+%
+should get thru ci now
+%
+Ok, 5am, it works.  For real.
+%
+after of this commit remember do a git reset hard
+%
+Completed with no bugs...
+%
+I don't know what the hell I was thinking.
+%
+Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit
+%
+I'll explain this when I'm sober .. or revert it
+%
+Automate Accounting
+%
+There's four sides to every story.
+%
+TODO: Tell someone to implement this
+%
+Chuck Norris Emailed Me This Patch... I'm Not Going To Question It
+%
+Gotta make you understand
+%
+totally more readable
+%
+Committed some changes
+%
+derp, helper method rename
+%
+did everything
+%
+Test commit. Please ignore
+%
+Fixing Jay's bugs.
+%
+jobs... steve jobs
+%
+Reinventing the wheel. Again.
+%
+It works on my computer
+%
+The universe is possible
+%
+does it work? maybe. will I check? no.
+%
+unh
+%
+Pro Tip: Use Copilot more
+%
+For the statistics only
+%
+And if thou'rt unwilling, then force I'll employ
+%
+more debug... who overwrote!
+%
+breathe, =, breathe
+%
+I was told to leave it alone, but I have this thing called OCD, you see
+%
+Does this work
+%
+derp, helper method rename
+%
+FONDLED THE CODE
+%
+More ignore
+%
+if you're not using et, fuck off
+%
+[Insert your commit message here. Be sure to make it descriptive.]
+%
+Version control is awful
+%
+Made it to compile...
+%
+Removing unecessary stuff
+%
+[Insert your commit message here. Be sure to make it descriptive.]
+%
+forgot we're not using a smart language
+%
+epic
+%
+Fix all errors, all errors on the WORLD!!!!
+%
+Reset error count between rows. herpderp
+%
+gave up and used tables.
+%
+Whee, good night.
+%
+Check next commit for message.
+%
+Trust me, I'm an engineer!... What the f*ck did just happened here?
+%
+removing unit tests
+%
+project lead is allergic to changes...
+%
+One does not simply merge into master
+%
+extra debug for stuff module
+%
+Reset error count between rows. herpderp
+%
+Finished fondling.
+%
+[FIX] asdf
+%
+Final commit, ready for tagging
+%
+Corrected mistakes
+%
+WTF is this.
+%
+project lead is allergic to changes...
+%
+Copy-paste to fix previous copy-paste
+%
+Trust me, it's not badly written. It's just way above your head.
+%
+??! what the ...
+%
+Last time I said it works? I was kidding.  Try this.
+%
+Apparently works-for-me is a crappy excuse.
+%
 Landed.
+%
+pep8 fixer
+%
+Check next commit for message.
+%
+added some filthy stuff
 %
