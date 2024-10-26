@@ -18,4 +18,4 @@ git clone https://github.com/KatrixReloaded/yolocommit-message.git $ZSH_CUSTOM/p
 - `yolomsg` random commit message printed  
 - `yolocommit` random commit message used to `git commit`  
 - `yolo_cow` random commit message thought by a dragon  
-
+- `yolo_online` random commit message used to commit in repo but not using fortune or cowthink  

@@ -6,8 +6,7 @@
   alias yolomsg="fortune -a $fortunes_dir"
   alias yolo_cow="yolomsg | cowthink -f dragon"
   alias yolocommit="git commit -m \"$(yolomsg)\""
-  local yolo_online_support="curl -s https://whatthecommit.com/index.txt"
-  alias yolo_online="git commit -m \"$(yolo_online_support)\""
+  alias yolo_online="git commit -m \"$(curl -s https://whatthecommit.com/index.txt)\""
 
   # Automatically generate or update yolo's compiled fortune data file
   if [[ "$fortunes_dir/yolo" -ot "$fortunes_dir/yolo.dat" ]]; then
