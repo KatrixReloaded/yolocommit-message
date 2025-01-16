@@ -17,7 +17,7 @@
   # For some reason, Cygwin puts strfile in /usr/sbin, which is not on the path by default
   local strfile="${commands[strfile]:-/usr/sbin/strfile}"
   if [[ ! -x "$strfile" ]]; then
-    echo "[oh-my-zsh] chucknorris depends on strfile, which is not installed" >&2
+    echo "[oh-my-zsh] yolo depends on strfile, which is not installed" >&2
     echo "[oh-my-zsh] strfile is often provided as part of the 'fortune' package" >&2
     return
   fi
