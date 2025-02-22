@@ -4,7 +4,7 @@
 
   # Aliases
   alias yolomsg="fortune -a $fortunes_dir"
-  alias yolo_cow="yolomsg | cowthink -f dragon"
+  alias yolo_dragon="yolomsg | cowthink -f dragon"
   alias yolocommit="git commit -m \"$(yolomsg)\""
   alias yolo_online="git commit -m \"$(curl -s https://whatthecommit.com/index.txt)\""
   alias byeee="shutdown -h now"
